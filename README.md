@@ -65,3 +65,4 @@ Recommended uploads:
 •	SQL query screenshots 
 •	workflow diagrams 
 ________________________________________
+<img width="1066" height="651" alt="image" src="https://github.com/user-attachments/assets/9c5e2efa-d154-41a6-b145-9ffe5df1e228" />
